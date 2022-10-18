@@ -1,0 +1,116 @@
+const products = {
+  product: [
+    {
+      id: 1,
+      name: "Regular T-shirt",
+      category: "Casual Wear",
+      image: "p1.webp",
+      markedPrice: 2000, 
+      quantity:1,
+      Price: 1800,
+      brand: "Allen Solly",
+      color: "p1.1.jpeg",
+      fabric: "Cotton",
+      description:
+        "The minimal solid look give this U.S. Polo Assn. shirt a refined appeal.This number is cut from premium cotton fabric to help you feel comfortable and light.",
+    },
+    {
+      id: 2,
+      name: "White T-shirt",
+      category: "Casual Wear",
+      image: "p2.jpeg",
+      markedPrice: 2500,
+      Price: 2000,
+      quantity:1,
+      brand: "Versace",
+      fabric: "Cotton",
+      description:
+        "The minimal solid look give this U.S. Polo Assn. shirt a refined appeal.This number is cut from premium cotton fabric to help you feel comfortable and light.",
+    },
+    {
+      id: 3,
+      name: "Formal shirt",
+      category: "Formal Wear",
+      image: "p3.jpeg",
+      markedPrice: 5000,
+      Price: 2500,quantity:1,
+      brand: "Allen Solly",
+      fabric: "Cotton",
+      description:
+        "The minimal solid look give this U.S. Polo Assn. shirt a refined appeal.This number is cut from premium cotton fabric to help you feel comfortable and light.",
+    },
+    {
+      id: 4,
+      name: "V neck Tshirt",
+      category: "Semi-formal",
+      image: "p4.jpeg",
+      markedPrice: 3000,
+      Price: 2800,quantity:1,
+      brand: "Lewis",
+      fabric: "Cotton",
+      description:
+        "The minimal solid look give this U.S. Polo Assn. shirt a refined appeal.This number is cut from premium cotton fabric to help you feel comfortable and light.",
+    },
+    {
+      id: 5,
+      name: "Round neck Tshirt",
+      category: "Casual",
+      image: "p5.webp",
+      markedPrice: 2500,
+      Price: 2000,quantity:1,
+      brand: "Lewis",
+      fabric: "Cotton",
+      description:
+        "The minimal solid look give this U.S. Polo Assn. shirt a refined appeal.This number is cut from premium cotton fabric to help you feel comfortable and light.",
+    },
+    {
+      id: 6,
+      name: "Semi-formal T-shirt",
+      category: "Semi-formal",
+      image: "p6.jpeg",
+      markedPrice: 3500,
+      Price: 3100,quantity:1,
+      brand: "Jockey",
+      fabric: "Cotton",
+      description:
+        "The minimal solid look give this U.S. Polo Assn. shirt a refined appeal.This number is cut from premium cotton fabric to help you feel comfortable and light.",
+    },
+    {
+      id: 7,
+      name: "Formal shirt",
+      category: "Formal",
+      image: "p7.jpeg",
+      markedPrice: 3000,
+      Price: 2800,quantity:1,
+      brand: "Lewis",
+      fabric: "Cotton",
+      description:
+        "The minimal solid look give this U.S. Polo Assn. shirt a refined appeal.This number is cut from premium cotton fabric to help you feel comfortable and light.",
+    },
+    {
+      id: 8,
+      name: "Black Semi-formal",
+      category: "Semi-formal",
+      image: "p8.jpeg",
+      markedPrice: 1500,quantity:1,
+      Price: 1200,
+      brand: "Lifestyle",
+      fabric: "Cotton",
+      description:
+        "The minimal solid look give this U.S. Polo Assn. shirt a refined appeal.This number is cut from premium cotton fabric to help you feel comfortable and light.",
+    },
+    {
+      id: 9,
+      name: "Casual Shirt",
+      category: "Casual",
+      image: "p9.webp",
+      markedPrice: 2800,
+      Price: 2500,
+      brand: "H&M",
+      fabric: "Cotton",
+      description:
+        "The minimal solid look give this U.S. Polo Assn. shirt a refined appeal.This number is cut from premium cotton fabric to help you feel comfortable and light.",
+    },
+  ],
+};
+export default products;
